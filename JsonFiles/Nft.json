@@ -3,25 +3,25 @@
       {
          "label":"Car1",
          "ID":1,
-         "modelURL":"https://pranav-tilt.github.io/3DModels/raceFuture.fbx",
+         "modelURL":"https://pranav-tilt.github.io/3DModels/Models/raceFuture.fbx",
          "positionTag":"A1"
       },
       {
          "label":"Car2",
          "ID":2,
-         "modelURL":"https://pranav-tilt.github.io/3DModels/race.fbx",
+         "modelURL":"https://pranav-tilt.github.io/3DModels/Models/race.fbx",
          "positionTag":"A2"
       },
       {
          "label":"Car3",
          "ID":3,
-         "modelURL":"https://pranav-tilt.github.io/3DModels/hatchbackSports.fbx",
+         "modelURL":"https://pranav-tilt.github.io/3DModels/Models/hatchbackSports.fbx",
          "positionTag":"A3"
       },
       {
          "label":"Car4",
          "ID":4,
-         "modelURL":"https://pranav-tilt.github.io/3DModels/sedanSports.fbx",
+         "modelURL":"https://pranav-tilt.github.io/3DModels/Models/sedanSportspubl.fbx",
          "positionTag":"A4"
       }
    ]
